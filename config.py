@@ -126,19 +126,6 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 
 
-#API_URL = getenv("API_URL", 'https://api3.nexgenbots.xyz') #youtube song url
-
-
-
-#VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-
-
-
-#API_KEY = getenv("API_KEY", 'NxGBNexGenBots47b0e9') # youtube song api key
-
-
-
-
 
 
 
@@ -150,7 +137,7 @@ UPSTREAM_REPO = getenv(
 
 
 
-    "https://github.com/musichosting5911/krishnabots",
+    "https://github.com/musichosting5911/shrimusic",
 
 
 
@@ -170,11 +157,11 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
 
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shayri345y")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/music_bot12p")
 
 
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+QppB6oMMSHwyNmY5")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+QbHcELtlmAZmN2Y1")
 
 
 
@@ -338,7 +325,7 @@ START_IMG_URL = getenv(
 
 
 
-    "START_IMG_URL", "https://files.catbox.moe/18vu8i.jpg"
+    "START_IMG_URL", "https://telegraphv1.vercel.app/i/qxf15o7w"
 
 
 
@@ -479,6 +466,11 @@ if SUPPORT_GROUP:
 
 
         )
+
+
+
+
+
 
 
 

@@ -137,7 +137,7 @@ UPSTREAM_REPO = getenv(
 
 
 
-    "https://github.com/musichosting5911/shrimusic",
+    "https://github.com/musichosting5911/ShriMusicV2",
 
 
 
